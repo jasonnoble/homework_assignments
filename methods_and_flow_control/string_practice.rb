@@ -22,4 +22,4 @@ puts "The string '#{practice_string}' has #{practice_string.length} characters"
 puts practice_string.reverse
 
 # practice practice practice!
-puts (practice_string[10..16] * 3).strip + '!'
+puts (practice_string[20..28] * 3).strip + '!'
