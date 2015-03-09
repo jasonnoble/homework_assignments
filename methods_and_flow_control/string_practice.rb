@@ -13,7 +13,7 @@ puts practice_string.capitalize
 puts practice_string.upcase
 
 # This is a 'string' to practice with
-puts practice_string.gsub('string', "'string'")
+puts practice_string.capitalize.gsub('string', "'string'")
 
 # The string 'this is a string to practice with' has 33 characters
 puts "The string '#{practice_string}' has #{practice_string.length} characters"
